@@ -1,0 +1,6 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\obj\Debug\OOP_2.csprojResolveAssemblyReference.cache
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\OOP\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
